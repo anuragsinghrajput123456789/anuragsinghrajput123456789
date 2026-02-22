@@ -4,7 +4,7 @@
 
 <div align="center">
     <a href="https://git.io/typing-svg">
-        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F0FF&center=true&vCenter=true&width=500&lines=Full-Stack+Developer+%F0%9F%92%BB;Generative+AI+Enthusiast+%F0%9F%A4%96;MERN+Stack+Expert+%E2%9A%A1;Always+Building+%26+Learning+%F0%9F%9A%80" alt="Typing Animation" />
+        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F0FF&center=true&vCenter=true&width=500&lines=Full-Stack+Developer+%F0%9F%92%BB;Generative+AI+Enthusiast+%F0%9F%A4%96;MERN+Stack+Expert+%E2%9A%A1;Always+Building+%26+Learning+%F0%9F%9A%80" alt="Typing Animation" />
     </a>
 </div>
 
@@ -35,22 +35,17 @@
 
 ## 👨‍💻 About Me
 
-<table>
-  <tr>
-    <td width="50%">
-      <ul>
-        <li>🔭 <strong>Current Focus:</strong> Building and scaling <strong>AI-powered SaaS solutions</strong> utilizing the MERN Stack and Next.js.</li>
-        <li>🌱 <strong>Learning:</strong> Deepening my knowledge in <strong>Generative AI</strong> and advanced data handling techniques.</li>
-        <li>💻 <strong>Stack:</strong> Proficient in the <strong>MERN Stack</strong> (MongoDB, Express, React, Node.js) with a strong foundation in <strong>Python</strong>.</li>
-        <li>🤝 <strong>Collaboration:</strong> Open to collaborating on <strong>innovative SaaS projects</strong> and Full-Stack challenges.</li>
-        <li>💬 <strong>Get in Touch:</strong> Feel free to ask me about <strong>Full-Stack Architecture, AI Integration, or Data Handling</strong>.</li>
-      </ul>
-    </td>
-    <td width="50%" align="center">
-      <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/code.gif" width="100%" alt="Coding Animation" />
-    </td>
-  </tr>
-</table>
+<div align="center">
+    <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/code.gif" width="350px" alt="Coding Animation" />
+</div>
+
+<br>
+
+* 🔭 **Current Focus:** Building and scaling **AI-powered SaaS solutions** utilizing the MERN Stack and Next.js.
+* 🌱 **Learning:** Deepening my knowledge in **Generative AI** and advanced data handling techniques.
+* 💻 **Stack:** Proficient in the **MERN Stack** (MongoDB, Express, React, Node.js) with a strong foundation in **Python**.
+* 🤝 **Collaboration:** Open to collaborating on **innovative SaaS projects** and Full-Stack challenges.
+* 💬 **Get in Touch:** Feel free to ask me about **Full-Stack Architecture, AI Integration, or Data Handling**.
 
 ---
 
@@ -118,7 +113,6 @@
 ---
 
 ## 🐍 Contribution Snake
-
 <div align="center">
     <picture>
         <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/anuragsinghrajput123456789/anuragsinghrajput123456789/output/github-snake-dark.svg" />
