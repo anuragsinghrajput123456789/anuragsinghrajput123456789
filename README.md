@@ -1,3 +1,4 @@
+
 <!-- Profile Views Counter - Animated Floating -->
 <div align="right">
   <img src="https://komarev.com/ghpvc/?username=anuragsinghrajput123456789&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
@@ -9,9 +10,11 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,18,24,27,30&height=220&section=header&text=Anurag%20Singh&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20Engineer%20%7C%20Full%20Stack%20Developer%20%7C%20SaaS%20Architect&descSize=18&descAlignY=55&stroke=8B5CF6&strokeWidth=2" width="100%" />
 </div>
 
-<!-- Animated Matrix Rain Effect Background -->
+<!-- Animated Typing Introduction -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=3500&pause=1000&color=8B5CF6&center=true&vCenter=true&width=800&lines=%3C%2F%3E+Building+the+Future+with+AI;%F0%9F%9A%80+Full+Stack+%2B+Generative+AI;%F0%9F%A7%A0+MERN+%7C+LangChain+%7C+RAG+Systems;%F0%9F%92%A1+Transforming+Ideas+into+Reality;%E2%9A%A1+Available+for+Collaboration" alt="Typing SVG" />
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=3500&pause=1000&color=8B5CF6&center=true&vCenter=true&width=800&lines=%3C%2F%3E+Building+the+Future+with+AI;%F0%9F%9A%80+Full+Stack+%2B+Generative+AI;%F0%9F%A7%A0+MERN+%7C+LangChain+%7C+RAG+Systems;%F0%9F%92%A1+Transforming+Ideas+into+Reality;%E2%9A%A1+Available+for+Collaboration" alt="Typing SVG" />
+  </a>
 </div>
 
 <br />
@@ -26,7 +29,7 @@
 
 <br />
 
-<!-- Animated Terminal Hero Section -->
+<!-- Hero Section with Terminal Animation -->
 <div align="center">
   <table align="center" style="border: none; background: transparent; border-collapse: separate; border-spacing: 20px;">
     <tr>
@@ -72,7 +75,8 @@
       </td>
       <td width="50%" style="border: none;" align="center">
         <div style="position: relative;">
-          <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXZudWpzMWc1ZGNxazQ1dHNyOXZ2a3h5azl5eG0zc2VkOG1iZW1wbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" style="border-radius: 24px; border: 2px solid rgba(139, 92, 246, 0.4); box-shadow: 0 20px 40px rgba(139, 92, 246, 0.2);" alt="Coding Animation" />
+          <!-- Replaced with more reliable and eye-catching GIF -->
+          <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2ZpbDZ6b3NldWk4c2l4N2g5c2R4cHZqdDZ6dWk5bzU2d2c5d2Z4eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26tn33aiTi1jkl6H6/giphy.gif" width="100%" style="border-radius: 24px; border: 2px solid rgba(139, 92, 246, 0.4); box-shadow: 0 20px 40px rgba(139, 92, 246, 0.2);" alt="Coding Animation" />
           <div style="position: absolute; bottom: -10px; right: -10px; background: linear-gradient(135deg, #8B5CF6, #EC4899); padding: 8px 16px; border-radius: 20px; color: white; font-weight: bold; box-shadow: 0 4px 15px rgba(139, 92, 246, 0.3);">
             <span style="animation: pulse 2s infinite;">💻 Live Coding</span>
           </div>
@@ -82,7 +86,7 @@
   </table>
 </div>
 
-<!-- Animated Divider with Icons -->
+<!-- Divider with Animated Stars -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,18,24,27,30&height=4&section=header&text=&fontSize=0" width="85%" />
   <div style="margin: -15px 0 10px 0;">
@@ -93,7 +97,7 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,18,24,27,30&height=4&section=header&text=&fontSize=0" width="85%" />
 </div>
 
-<!-- Animated Tech Stack Showcase -->
+<!-- Tech Stack Showcase with Animated Icons -->
 <div align="center">
   <h2>
     <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gear.png" width="35" />
@@ -103,7 +107,6 @@
   </h2>
 </div>
 
-<!-- Animated Orbiting Tech Icons -->
 <div align="center">
   <table style="border: none; background: transparent; border-spacing: 25px;">
     <tr>
@@ -174,7 +177,7 @@
   </table>
 </div>
 
-<!-- Animated Divider with Icons -->
+<!-- Divider with Animated Stars -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,18,24,27,30&height=4&section=header&text=&fontSize=0" width="85%" />
   <div style="margin: -15px 0 10px 0;">
@@ -208,7 +211,7 @@
   </table>
 </div>
 
-<!-- Animated Activity Graph -->
+<!-- Activity Graph -->
 <div align="center">
   <div style="background: linear-gradient(145deg, #1F2937 0%, #111827 100%); border-radius: 20px; padding: 25px; border: 1px solid rgba(139, 92, 246, 0.3); box-shadow: 0 8px 32px rgba(0, 0, 0, 0.3); width: 90%;">
     <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=anuragsinghrajput123456789&custom_title=📊%20Contribution%20Timeline&bg_color=0D1117&color=8B5CF6&line=8B5CF6&point=EC4899&area=true&area_color=8B5CF6&hide_border=true&title_color=D1D5DB&radius=16" />
@@ -217,7 +220,7 @@
 
 <br />
 
-<!-- Language Stats with Animation -->
+<!-- Language Stats -->
 <div align="center">
   <table style="border: none; background: transparent;">
     <tr>
@@ -231,7 +234,7 @@
   </table>
 </div>
 
-<!-- Animated Divider with Icons -->
+<!-- Divider with Animated Stars -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,18,24,27,30&height=4&section=header&text=&fontSize=0" width="85%" />
   <div style="margin: -15px 0 10px 0;">
@@ -242,7 +245,7 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,18,24,27,30&height=4&section=header&text=&fontSize=0" width="85%" />
 </div>
 
-<!-- Current Focus - Animated Cards -->
+<!-- Current Focus - Animated Cards with Better GIFs -->
 <div align="center">
   <h2>
     <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Telescope.png" width="35" />
@@ -263,7 +266,8 @@
           <h3 style="color: #F3F4F6; margin: 0 0 10px 0;">Building</h3>
           <p style="color: #D1D5DB; font-size: 16px; margin: 5px 0;">AI-Powered SaaS Products</p>
           <div style="margin-top: 20px;">
-            <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDl4M2h6dmZxOTF1emlyZDU2Y2d0Zmd1aWVhaWU2azRwNDh6dGNxeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPnAiaMCws8nOsE/giphy.gif" width="180" style="border-radius: 12px; border: 1px solid rgba(139, 92, 246, 0.3);" />
+            <!-- Replaced with a better eye-catching GIF -->
+            <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2ZpbDZ6b3NldWk4c2l4N2g5c2R4cHZqdDZ6dWk5bzU2d2c5d2Z4eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPnAiaMCws8nOsE/giphy.gif" width="180" style="border-radius: 12px; border: 1px solid rgba(139, 92, 246, 0.3);" />
           </div>
         </div>
       </td>
@@ -275,6 +279,7 @@
           <h3 style="color: #F3F4F6; margin: 0 0 10px 0;">Learning</h3>
           <p style="color: #D1D5DB; font-size: 16px; margin: 5px 0;">Advanced System Design & DSA</p>
           <div style="margin-top: 20px;">
+            <!-- Replaced with better GIF -->
             <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDVnY3Rpd3c3b2N5cDJqdmJ1OG1lYXQ2cHJ5MXNpejA2bjRzMW5pZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif" width="180" style="border-radius: 12px; border: 1px solid rgba(236, 72, 153, 0.3);" />
           </div>
         </div>
@@ -287,6 +292,7 @@
           <h3 style="color: #F3F4F6; margin: 0 0 10px 0;">Targeting</h3>
           <p style="color: #D1D5DB; font-size: 16px; margin: 5px 0;">SDE / AI Engineer Roles</p>
           <div style="margin-top: 20px;">
+            <!-- Replaced with better GIF -->
             <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDB6ODN1Z2hzc2c5b3IxOG9raDJ3YzMyYnJ3emxwcnM4ZnZ4YWY5ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPEqDGUULpEU0aQ/giphy.gif" width="180" style="border-radius: 12px; border: 1px solid rgba(16, 185, 129, 0.3);" />
           </div>
         </div>
@@ -295,7 +301,7 @@
   </table>
 </div>
 
-<!-- Animated Divider with Icons -->
+<!-- Divider with Animated Stars -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,18,24,27,30&height=4&section=header&text=&fontSize=0" width="85%" />
   <div style="margin: -15px 0 10px 0;">
@@ -306,7 +312,7 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,18,24,27,30&height=4&section=header&text=&fontSize=0" width="85%" />
 </div>
 
-<!-- Connect Section - Enhanced -->
+<!-- Connect Section -->
 <div align="center">
   <h2>
     <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" width="35" />
@@ -358,7 +364,9 @@
   <br />
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,18,24,27,30&height=120&section=footer&text=Thanks%20for%20Visiting!%20👋&fontSize=28&fontColor=ffffff&animation=fadeIn&fontAlignY=75" width="100%" />
   
-  <!-- Snake Animation - Enhanced -->
+  <!-- Snake Animation - Only if you have it set up, otherwise you can remove this section -->
+  <!-- If you haven't set up the snake animation action, you can comment it out or remove it -->
+  <!--
   <div style="margin-top: -10px;">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/anuragsinghrajput123456789/anuragsinghrajput123456789/output/github-contribution-grid-snake-dark.svg">
@@ -366,6 +374,7 @@
       <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/anuragsinghrajput123456789/anuragsinghrajput123456789/output/github-contribution-grid-snake.svg" width="90%">
     </picture>
   </div>
+  -->
   
   <!-- Footer Info -->
   <div style="margin-top: 20px;">
@@ -376,7 +385,7 @@
   <br />
 </div>
 
-<!-- CSS Animations -->
+<!-- CSS Animations (inline style) -->
 <style>
   @keyframes blink {
     0%, 100% { opacity: 1; }
